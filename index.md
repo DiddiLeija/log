@@ -9,7 +9,7 @@ There's also a chance that I'll share an interview with some cool fellow devs I 
 
 ## Index
 
-- [**Ok, seriously now...**](260401) _(April 6th, 2026)_
+- [**Ok, seriously now...**](260406) _(April 6th, 2026)_
 - [**What's up for 2025**](250114) _(January 14th, 2025)_
 - [**DiddiLeija Tips for having a safe Discord server**](240122) _(January 22th, 2024)_
 - [**The 2023 recap!**](240104) _(January 4th, 2023)_
